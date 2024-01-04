@@ -2,11 +2,9 @@
 
 Contributors: Quotes Quests
 
-Tags: inspiration, quotes, motivation
+Requires at least: wordpress 5.0
 
-Requires at least: 5.0
-
-Tested up to: 6.4.2
+Tested up to: wordpress 6.4.2
 
 Stable tag: 1.0.0
 
@@ -28,11 +26,11 @@ Daily Quotes is a free WordPress plugin designed to enrich your website with dai
 
 - **Customization Options:** Tailor the appearance to match your website's style by adjusting width, height, and styles.
 
-- **No Maintenance Required:** Set it up, and let DailyQuotes handle the rest by fetching content from our source website.
+- **No Maintenance Required:** Set it up, and let Daily Quotes handle the rest by fetching content from our source website.
 
 == Installation ==
 
-1. Upload [`dailyquotes`](link-to-github.zip) to the `/wp-content/plugins/` directory.
+1. Upload plugin zip file to the `/wp-content/plugins/` directory.
 
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 
@@ -49,13 +47,9 @@ Yes, you can! Adjust the width, height, and styles of the embedded iframe to mat
 == Screenshots ==
 
 1. Desktop view
-	https://quotesquests.com/wp-content/uploads/2024/01/Plugin_Mobile_screenshot.png
+<img width="887" alt="Plugin_Desktop_screenshot" src="https://github.com/quotesquests/Daily-Quotes/assets/155669536/96d5d90d-90d9-43ef-b649-302006fc33d9">
 
-2. Mobile view
-	https://quotesquests.com/wp-content/uploads/2024/01/Plugin_Desktop_screenshot.png
 
-== Changelog ==
+3. Mobile view
+<img width="344" alt="Plugin_Mobile_screenshot" src="https://github.com/quotesquests/Daily-Quotes/assets/155669536/4aac2d41-4866-4ddd-84c0-6bc0802565f7">
 
-= v1.0.0 =
-
-* Initial release
